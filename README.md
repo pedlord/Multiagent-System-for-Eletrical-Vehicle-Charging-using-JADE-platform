@@ -1,5 +1,6 @@
 # Multiagent-System-for-Eletrical-Vehicle-Charging-using-JADE-platform
-# Sistema multiagente para carregamento de veiculos eletricos
+
+Sistema multiagente para carregamento de veiculos eletricos utilizando a plataforma JADE
 
 System developed for an internship project using the JADE platform of the java language between December 2021 and August 2022, using the strategy algorithm called Amoroso.
 
